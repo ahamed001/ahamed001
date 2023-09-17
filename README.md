@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate MERN Stack Developer 🚀 | <br>Building scalable and innovative web solutions with MongoDB, Express, React, Node.js | <br>Full Stack Enthusiast 🌐 | Open to collaboration and always learning. <br>Let's code something amazing together! 💻 <br>Ask me about my journey into software development, my favorite coding projects, or any tech-related questions you have in mind. <br>I'm here to share knowledge and exchange ideas! 💡👩‍💻🚀
+Passionate MERN Stack Developer 🚀 | Building scalable and innovative web solutions with MongoDB, Express, React, Node.js <br>Full Stack Enthusiast 🌐 | Open to collaboration and always learning. Let's code something amazing together! 💻 <br>Ask me about my journey into software development, my favorite coding projects, or any tech-related questions you have in mind. <br>I'm here to share knowledge and exchange ideas! 💡👩‍💻🚀
 
 
 ## 🌐 Socials:
