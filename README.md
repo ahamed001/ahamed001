@@ -1,8 +1,6 @@
 # 💫 About Me:
 Passionate MERN Stack Developer 🚀 | Building scalable and innovative web solutions with MongoDB, Express, React, Node.js <br>Full Stack Enthusiast 🌐 | Open to collaboration and always learning. Let's code something amazing together! 💻 <br>Ask me about my journey into software development, my favorite coding projects, or any tech-related questions you have in mind. <br>I'm here to share knowledge and exchange ideas! 💡👩‍💻🚀
 
-
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -30,7 +28,7 @@ Passionate MERN Stack Developer 🚀 | Building scalable and innovative web solu
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahamed001&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahamed001&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahamed001&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed001&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
