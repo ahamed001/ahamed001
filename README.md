@@ -1,4 +1,5 @@
-# 💫 About Me:a passionate full-stack developer dedicated to crafting seamless digital experiences. With a robust skill set spanning Java, MERN stack, and the latest technologies, I excel at delivering end-to-end solutions that redefine user engagement.
+# 💫 About Me:
+A passionate full-stack developer dedicated to crafting seamless digital experiences. With a robust skill set spanning Java, MERN stack, and the latest technologies, I excel at delivering end-to-end solutions that redefine user engagement.
 
 🚀 My journey in the tech world has been a dynamic exploration, leading me to spearhead projects ranging from immersive AR websites to intuitive LMS platforms and groundbreaking video creation applications. I thrive on pushing the boundaries of web development by harnessing the power of cutting-edge tools and frameworks.
 
