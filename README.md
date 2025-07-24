@@ -1,11 +1,18 @@
-# 💫 About Me:
-A passionate full-stack developer dedicated to crafting seamless digital experiences. With a robust skill set spanning Java, MERN stack, and the latest technologies, I excel at delivering end-to-end solutions that redefine user engagement.
+# Hey, I'm Ahamed 👋
 
-🚀 My journey in the tech world has been a dynamic exploration, leading me to spearhead projects ranging from immersive AR websites to intuitive LMS platforms and groundbreaking video creation applications. I thrive on pushing the boundaries of web development by harnessing the power of cutting-edge tools and frameworks.
+I'm a full-stack developer with 2+ years of experience in building web and mobile apps. I work mainly with **React.js**, **Node.js**, **Spring Boot**, and **Flutter**.
 
-💡 Whether I'm architecting scalable systems, designing elegant UIs, or delving into the intricacies of backend logic, my work is fueled by an insatiable curiosity to innovate and explore new horizons. I'm eager to collaborate on ventures that challenge me to grow and contribute to building impactful solutions that resonate with users worldwide.
+You'll find most of my projects here on GitHub — from real-world applications to experiments with AR/VR and video editing tools.
 
-🌟 Let's connect and embark on an exhilarating journey to create something truly extraordinary together!
+Currently working on:
+- A society management app (Flutter + Node.js)
+- A SaaS-based accountancy platform (MERN)
+
+I like building clean, scalable systems and learning new tech along the way.
+
+📫 ahamed@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
