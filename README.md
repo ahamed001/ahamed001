@@ -1,18 +1,10 @@
 # Hey, I'm Ahamed 👋
 
-I'm a full-stack developer with 2+ years of experience in building web and mobile apps. I work mainly with **React.js**, **Node.js**, **Spring Boot**, and **Flutter**.
+I'm a full-stack developer with 2+ years of experience in building web and mobile apps. I work mainly with **React.js**, **Node.js** and **Flutter**.
 
-You'll find most of my projects here on GitHub — from real-world applications to experiments with AR/VR and video editing tools.
-
-Currently working on:
-- A society management app (Flutter + Node.js)
-- A SaaS-based accountancy platform (MERN)
+I've worked on projects involving **AR/VR**, **video editing tools**, **LMS platforms**, and more. Most of my work is here on GitHub — feel free to explore the repos.
 
 I like building clean, scalable systems and learning new tech along the way.
-
-📫 ahamed@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
