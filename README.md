@@ -6,13 +6,14 @@ I've worked on projects involving **AR/VR**, **video editing tools**, **LMS plat
 
 I like building clean, scalable systems and learning new tech along the way.
 
-# 💻 Tech Stack:<!-- Frameworks & Libraries -->
+# 💻 Tech Stack:
+<!-- Frameworks & Libraries -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/logo.svg" alt="Three.js" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/shadcn/shadcn-ui/main/logo/shadcn-logo-light.svg" alt="ShadCN UI" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
 
 <!-- Languages -->
@@ -25,20 +26,19 @@ I like building clean, scalable systems and learning new tech along the way.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/supabase/supabase-js/logo/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
+<img src="https://supabase.com/_next/image?url=%2Fimg%2Flogo-icon.svg&w=64&q=75" alt="Supabase" width="40" height="40"/>
 
 <!-- Tools & Platforms -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" alt="Render" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
+<img src="https://render.com/images/favicon.svg" alt="Render" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
 
 <!-- Others (specialized skills) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webgl/webgl-original.svg" alt="WebGL" width="40" height="40"/>
-
+<img src="https://raw.githubusercontent.com/KhronosGroup/WebGL/main/webgl-logo.svg" alt="WebGL" width="40" height="40"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahamed001&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
