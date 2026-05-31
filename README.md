@@ -1,10 +1,10 @@
 # Hey, I'm Ahamed 👋
 
-I'm a full-stack developer with 2+ years of experience in building web and mobile apps. I work mainly with **React.js**, **Node.js** and **Flutter**.
+Full Stack Developer with 2.5+ years of experience building web and mobile applications using **React.js**, **Node.js**, and **Flutter**.
 
-I've worked on projects involving **AR/VR**, **video editing tools**, **LMS platforms**, and more. Most of my work is here on GitHub — feel free to explore the repos.
+I've worked on scalable platforms including travel booking systems, e-commerce SaaS products, POS solutions, and AR/VR web experiences.
 
-I like building clean, scalable systems and learning new tech along the way.
+Feel free to explore my repositories and projects.
 
 # 💻 Tech Stack:
 
