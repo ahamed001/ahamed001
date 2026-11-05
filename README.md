@@ -1,6 +1,6 @@
 # Hey, I'm Ahamed 👋
 
-Full Stack Developer with 2.5+ years of experience building web and mobile applications using **React.js**, **Node.js**, and **Flutter**.
+Full Stack Developer with 3.2+ years of experience building web and mobile applications using **React.js**, **Node.js**, and **Flutter**.
 
 I've worked on scalable platforms including travel booking systems, e-commerce SaaS products, POS solutions, and AR/VR web experiences.
 
@@ -24,7 +24,6 @@ Feel free to explore my repositories and projects.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
