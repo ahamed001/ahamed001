@@ -1,10 +1,14 @@
-# Hey, I'm Ahamed 👋
+# Hey, I'm Ahamed Irfan 👋
 
-Full Stack Developer with 3.2+ years of experience building web and mobile applications using **React.js**, **Node.js**, and **Flutter**.
+**Full Stack Developer | 3.2+ Years of Experience**
 
-I've worked on scalable platforms including travel booking systems, e-commerce SaaS products, POS solutions, and AR/VR web experiences.
+I build web and mobile applications using **React.js, Node.js, Express.js, and Flutter**, with experience in developing REST APIs, database-driven applications, and real-time systems.
 
-Feel free to explore my repositories and projects.
+I've worked on production applications across different domains, including **POS & inventory management, travel platforms, multi-tenant e-commerce SaaS, and AR/VR web experiences**.
+
+I enjoy solving practical engineering problems, building reliable application workflows, and exploring new technologies.
+
+Feel free to explore my repositories and projects!
 
 # 💻 Tech Stack:
 
@@ -19,7 +23,8 @@ Feel free to explore my repositories and projects.
 ![ShadCN UI](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
